@@ -1,0 +1,14 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "A simple npm package to learn about using npm",
+  "main": "index.js",
+  "scripts": {
+    "hello-world": "echo \"Hello World\""
+  },
+  "author": "Christina Loidolt",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.25.0"
+  }
+}
